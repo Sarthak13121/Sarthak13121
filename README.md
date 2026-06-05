@@ -73,12 +73,6 @@ I'm a passionate software developer who loves building web applications, designi
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Sarthak13121&show_icons=true&theme=tokyonight&count_private=true" alt="Sarthak's GitHub Stats" height="195px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Sarthak13121&layout=compact&theme=tokyonight&langs_count=5" alt="Sarthak's Top Languages" height="195px" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sarthak13121&theme=tokyonight" alt="Sarthak's Github Streak" height="195px" />
 </p>
 
